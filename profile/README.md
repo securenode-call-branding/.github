@@ -2,7 +2,15 @@
 
 > **Verified Caller Identity & Call Branding Platform**  
 > Native. Offline-first. OS-compliant.
-![SecureNode Call Branding Preview](https://assets.zyrosite.com/mv02wLOOE4skoDMe/securenode_p-VJEjTb63yD2sHE66.jpg)
+
+<p align="center">
+  <img
+    src="https://assets.zyrosite.com/mv02wLOOE4skoDMe/securenode_p-VJEjTb63yD2sHE66.jpg"
+    alt="SecureNode Call Branding Preview"
+    width="420"
+    style="border: none; box-shadow: none;"
+  />
+</p>
 
 SecureNode provides a platform and SDKs for **verified caller identity and call branding**, designed to integrate cleanly with native mobile operating systems **without replacing the call UI or intercepting audio**.
 
