@@ -167,3 +167,10 @@ Copyright © SecureNode.
 All rights reserved.
 
 This repository is provided for integration and evaluation purposes under the applicable SecureNode agreements.
+
+This software is provided for evaluation and integration testing only.
+No production use, modification, distribution, or commercial deployment
+is permitted without an executed SecureNode commercial license agreement.
+
+Unauthorized use constitutes copyright infringement.
+
